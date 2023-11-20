@@ -1,4 +1,4 @@
-# 👋 Welcome to Emmanuel Ifeanyi Vitus's GitHub Repository #
+# 👋 Welcome to Emmanuel Ifeanyi Vitus's GitHub Page #
 ##  I am a Data Analyst  ## 
 - 👀 I'm passionate about leveraging technology in the realms of machine learning, data analytics, and cybersecurity.
 - 🌱 Currently, I'm diving into the world of data analysis with Dahel Techies, honing my skills using tools such as Power BI, Tableau, Excel, and SQL.
