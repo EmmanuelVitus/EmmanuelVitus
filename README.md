@@ -6,7 +6,7 @@
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/emmanuel-vitus-Ifeanyi/)
 
  ## Projects
-Here you'll find a collection of my projects exploring various aspects of data analytics, machine learning models, and cybersecurity tools. Each repository includes detailed documentation on how to use the projects, their purpose, and the technologies utilized.
+Here you'll find a collection of my projects exploring various aspects of data analytics, machine learning models, and cybersecurity, tools. Each repository includes detailed documentation on how to use the projects, their purpose, and the technologies utilized.
 
 Feel free to explore, provide feedback, or even collaborate on any project that catches your interest. Contributions and constructive criticism are always welcome!
 
